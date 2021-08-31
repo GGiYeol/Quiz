@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Quiz</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/quiz04/DmbPhone.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/inherit/DmbPhone.java</locationURI>
+		</link>
+		<link>
+			<name>src/quiz04/MainClass.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/inherit/MainClass.java</locationURI>
+		</link>
+		<link>
+			<name>src/quiz04/Phone.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/inherit/Phone.java</locationURI>
+		</link>
+		<link>
+			<name>src/quiz07/Car1.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Car1.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
